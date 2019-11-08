@@ -5,3 +5,5 @@ Requirements:
 
 - Visual Studio 2019
 - XCode 11.2 (if compile for iOS)
+
+For more information, please visit http://lex.lyratokens.com/
