@@ -27,22 +27,22 @@
 
   <ItemGroup>
     <Reference Include="Lyra.Client.Lib">
-      <HintPath>..\..\..\LyraAssemblies\Lyra.Client.Lib.dll</HintPath>
+      <HintPath>..\..\LyraAssemblies\Lyra.Client.Lib.dll</HintPath>
     </Reference>
     <Reference Include="Lyra.Client.RPC">
-      <HintPath>..\..\..\LyraAssemblies\Lyra.Client.RPC.dll</HintPath>
+      <HintPath>..\..\LyraAssemblies\Lyra.Client.RPC.dll</HintPath>
     </Reference>
     <Reference Include="Lyra.Client.WebAPI">
-      <HintPath>..\..\..\LyraAssemblies\Lyra.Client.WebAPI.dll</HintPath>
+      <HintPath>..\..\LyraAssemblies\Lyra.Client.WebAPI.dll</HintPath>
     </Reference>
     <Reference Include="Lyra.Core">
-      <HintPath>..\..\..\LyraAssemblies\Lyra.Core.dll</HintPath>
+      <HintPath>..\..\LyraAssemblies\Lyra.Core.dll</HintPath>
     </Reference>
     <Reference Include="Lyra.Core.LiteDB">
-      <HintPath>..\..\..\LyraAssemblies\Lyra.Core.LiteDB.dll</HintPath>
+      <HintPath>..\..\LyraAssemblies\Lyra.Core.LiteDB.dll</HintPath>
     </Reference>
     <Reference Include="Lyra.Core.TcpLib">
-      <HintPath>..\..\..\LyraAssemblies\Lyra.Core.TcpLib.dll</HintPath>
+      <HintPath>..\..\LyraAssemblies\Lyra.Core.TcpLib.dll</HintPath>
     </Reference>
   </ItemGroup>
 
