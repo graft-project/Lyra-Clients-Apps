@@ -9,7 +9,7 @@ Requirements:
 
 Scan QR Code bellow to download to Android device.
 
-<img width="200" height="200" src="http://lex.lyratokens.com/images/apk-download-qr-code.png" />
+<img width="200" height="200" src="https://lex.lyratokens.com/images/apk-download-qr-code.png" />
 
 For more information, please visit http://lex.lyratokens.com/
 
